@@ -49,5 +49,5 @@ END
 
 ## Files
 
-- `grace_hopper_report.pdf` : description, flowchart and scene-wise dialogues
+- `grace_hopper.pdf` : description, flowchart and scene-wise dialogues
 - Final video: `GraceHopper.mp4`
